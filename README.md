@@ -8,25 +8,28 @@ I'm known for my **strong communication skills** and enjoy collaborating closely
 ## 🛠️ Skills
 
 - **Languages**: Go (Golang), Python, TypeScript/JavaScript
-- **AI & NLP**: Natural Language Processing, Machine Learning, RAG (Retrieval-Augmented Generation), LLMs
-- **Backend & APIs**: gRPC, FastAPI, REST, Fiber
+- **AI & NLP**: Natural Language Processing, Machine Learning, RAG (Retrieval-Augmented Generation), LLMs, Semantic Chunking, Embeddings
+- **Backend & APIs**: gRPC, FastAPI, REST, Fiber, Gin
 - **DevOps & Infrastructure**: Kubernetes, Docker, Microservices, Concurrency, Rate Limiting
 - **Observability**: OpenTelemetry, Structured Logging
 - **Frontend**: React
-- **Databases**: PostgreSQL
-- **Other**: Clean Architecture, High-performance pipelines, Batch & Real-time Processing
+- **Databases & Cache**: PostgreSQL, Redis
+- **Other**: Clean Architecture, High-performance pipelines, Batch & Real-time Processing, Semantic Caching
 
 ## 🚀 Current Projects
 
-Check out my pinned repositories for the latest work:
+Here are some of my key repositories showcasing production-grade Go + AI/NLP work:
 
-- **[NLPfusion](https://github.com/DennisMRitchie/NLPfusion)** — NLP Chatbot
+- **[go-llm-smart-cache](https://github.com/DennisMRitchie/go-llm-smart-cache)** — Intelligent semantic cache for LLM queries in Go — reduces inference calls by 60-85%
+- **[go-llm-gateway](https://github.com/DennisMRitchie/go-llm-gateway)** — High-performance OpenAI-compatible LLM Gateway in Go with intelligent routing, fallback, and rate limiting
+- **[go-semantic-chunker](https://github.com/DennisMRitchie/go-semantic-chunker)** — Advanced semantic-aware text chunker for RAG pipelines in Go with embeddings and benchmarks
+- **[go-rag-llm-orchestrator](https://github.com/DennisMRitchie/go-rag-llm-orchestrator)** — Production-ready RAG orchestrator in Go — vector search, gRPC LLM integration, and text chunking
+- **[go-llm-rag-pipeline](https://github.com/DennisMRitchie/go-llm-rag-pipeline)** — Production-ready RAG pipeline in Go with REST API + React frontend
+- **[go-nlp-text-pipeline](https://github.com/DennisMRitchie/go-nlp-text-pipeline)** — High-performance concurrent text processing pipeline in Go with gRPC
 - **[go-nlp-service](https://github.com/DennisMRitchie/go-nlp-service)** — High-performance Go NLP microservice with gRPC integration to Python ML backend
-- **[go-nlp-text-pipeline](https://github.com/DennisMRitchie/go-nlp-text-pipeline)** — Concurrent text processing pipeline in Go with gRPC
-- **[go-llm-rag-pipeline](https://github.com/DennisMRitchie/go-llm-rag-pipeline)** — Production-ready RAG pipeline in Go with REST + React frontend
-- **[go-rag-llm-orchestrator](https://github.com/DennisMRitchie/go-rag-llm-orchestrator)** — RAG orchestrator with vector search and gRPC LLM integration
+- **[NLPfusion](https://github.com/DennisMRitchie/NLPfusion)** — NLP Chatbot
 
-These projects showcase expertise in building observable, scalable, and production-grade AI/NLP systems — perfect for senior developer roles.
+These projects highlight my expertise in building observable, scalable, and production-grade AI/NLP systems — ideal for senior Go developer roles.
 
 ## 📬 Contact Me
 
